@@ -6,13 +6,16 @@ Implementation of Error State-Extended Kalman Filter for state estimation & loca
 <p align="center">
 <img src="https://github.com/varunasthana92/Sensor_Fusion_IMU_GPS_LIDAR_ES_EKF/blob/main/data/motion_model.png" width = 350>
 <img src="https://github.com/varunasthana92/Sensor_Fusion_IMU_GPS_LIDAR_ES_EKF/blob/main/data/linearized_motion.png" width = 350>
+</p>
+
+<p align="center">
 <img src="https://github.com/varunasthana92/Sensor_Fusion_IMU_GPS_LIDAR_ES_EKF/blob/main/data/gnss_model.png" width = 350>
 <img src="https://github.com/varunasthana92/Sensor_Fusion_IMU_GPS_LIDAR_ES_EKF/blob/main/data/lidar_model.png" width = 350>
 </p>
 
 ### Ground Truth for result comparision
 <p align="center">
-<img src="https://github.com/varunasthana92/Sensor_Fusion_IMU_GPS_LIDAR_ES_EKF/blob/main/output/gtruth.png" width = 350>
+<img src="https://github.com/varunasthana92/Sensor_Fusion_IMU_GPS_LIDAR_ES_EKF/blob/main/output/gtruth.png" width = 400>
 </p>
 
 ### State Estimation and Localization
