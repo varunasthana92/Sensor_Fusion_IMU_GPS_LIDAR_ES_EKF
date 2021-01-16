@@ -1,4 +1,4 @@
-# Sensor_Fusion_IMU_GPS_LIDAR_ES_EKF
+# Sensor Fusion of IMU, GPS & LIDAR with Error State Extended Kalman Filter for State Estimationa dn Localization
 
 ## Overview 
 Implementation of Error State-Extended Kalman Filter for state estimation & localization. Input data for IMU, GNSS (GPS), and LIDAR is given along with time stamp. All data is in vehicle frame, except for LIDAR data. A transformation is done on LIDAR data before using it for state estimation.
